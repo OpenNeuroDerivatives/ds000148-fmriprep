@@ -1,0 +1,29 @@
+WARNING (08/25/22 17:35:11): LAUNCHER_WORKDIR variable not set. Using current directory.
+using /tmp/launcher.4759755.hostlist.lC89cBqr to get hosts
+starting job on c108-061
+starting job on c108-123
+starting job on c109-094
+starting job on c109-173
+starting job on c109-193
+starting job on c109-214
+starting job on c110-163
+starting job on c110-204
+starting job on c111-001
+starting job on c111-133
+starting job on c111-143
+starting job on c111-161
+starting job on c112-011
+Warning: Permanently added 'c108-061' (ED25519) to the list of known hosts.
+Warning: Permanently added 'c110-163' (ED25519) to the list of known hosts.
+Warning: Permanently added 'c110-204' (ED25519) to the list of known hosts.
+Warning: Permanently added 'c111-143' (ED25519) to the list of known hosts.
+Warning: Permanently added 'c108-123' (ED25519) to the list of known hosts.
+Warning: Permanently added 'c109-214' (ED25519) to the list of known hosts.
+Warning: Permanently added 'c109-193' (ED25519) to the list of known hosts.
+Warning: Permanently added 'c109-173' (ED25519) to the list of known hosts.
+Warning: Permanently added 'c111-161' (ED25519) to the list of known hosts.
+Warning: Permanently added 'c109-094' (ED25519) to the list of known hosts.
+Warning: Permanently added 'c111-001' (ED25519) to the list of known hosts.
+Warning: Permanently added 'c112-011' (ED25519) to the list of known hosts.
+hostfile_replace_entries: link /home1/03201/jbwexler/.ssh/known_hosts to /home1/03201/jbwexler/.ssh/known_hosts.old: File exists
+update_known_hosts: hostfile_replace_entries failed for /home1/03201/jbwexler/.ssh/known_hosts: File exists
