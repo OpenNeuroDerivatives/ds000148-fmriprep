@@ -1,0 +1,7 @@
+{
+  "RawSources": [
+    "sub-43/anat/sub-43_acq-axial_run-01_T1w.nii.gz",
+    "sub-43/anat/sub-43_acq-sagittal_run-01_T1w.nii.gz"
+  ],
+  "Type": "Brain"
+}
